@@ -20,16 +20,16 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define( 'DB_NAME', 'hungwp' );
+define( 'DB_NAME', 'epiz_31427396_hungwp' );
 
 /** Username của database */
-define( 'DB_USER', 'hungwp' );
+define( 'DB_USER', 'epiz_31427396' );
 
 /** Mật khẩu của database */
-define( 'DB_PASSWORD', 'hungwp' );
+define( 'DB_PASSWORD', 'PQ8Tjt4ZUC' );
 
 /** Hostname của database */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '	sql203.epizy.com' );
 
 /** Database charset sử dụng để tạo bảng database. */
 define( 'DB_CHARSET', 'utf8mb4' );
